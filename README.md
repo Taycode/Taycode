@@ -1,14 +1,29 @@
 ### Hey there 👋
 
-Welcome to my GitHub, where code, creativity, and a bit of mischief meet! I'm a Software Engineer at Invisible Technologies, working on making automation smarter and more efficient—one line of code at a time.
+Welcome to my GitHub. This is where I work on backend systems, explore how software behaves under real-world constraints, and document things I learn along the way.
 
-- 🔭 **What I'm Working On:** I build and manage automations—whether it's creating new steps, enhancing existing ones, debugging, or interacting with client representatives.
-- 🌱 **What I'm Learning:** Currently diving into ReactJS and eyeing a future in Data Engineering.
-- 👯 **Collaboration Interests:** Always excited to collaborate on projects involving Django, NestJS, Python, and TypeScript. Let’s solve real-world problems with real-world data!
-- 🤔 **Side Projects:** Building a job-matching platform called Haya, and working on a news sentiment analysis project. In the long run, I dream of bridging data engineering and football.
-- 💬 **Ask Me About:** Backend development, automation, and anything Python/Django or NestJS-related.
-- ⚽ **Fun Fact:** Huge fan of football and random facts.
-- 💭 **My Dreams:** One day, I hope to bring data engineering to the football world in Nigeria—or maybe even own a broadcasting company!
-- 😄 **Something Unique About Me:** I can be a nerd, comedian, and a mischievous human all at once.
-- 📫 **Let’s Connect:** Reach me on [Twitter](https://twitter.com/TayCode) or catch me on [LinkedIn](https://www.linkedin.com/in/abdulmateen-tairu/). Let's chat!
+I’m **Abdulmateen Tairu**, a **Senior Software Engineer** with 6+ years of experience building and operating production systems across fintech, logistics, and AI-driven products. I focus on reliability, scalability, and understanding systems beyond their abstractions.
 
+- 🔭 **What I’m Working On:**  
+  Building **[Haya](https://haya.ng)** — an AI-powered, Nigeria-focused talent matching platform. I’m responsible for backend architecture, data ingestion, matching logic, and the infrastructure that keeps everything running reliably.
+
+- 🌱 **What I’m Exploring:**  
+  System design from the inside out — **database internals, software networking, concurrency, queues, and distributed systems**. I’m also exploring **AI engineering**, with a focus on practical LLM workflows, embeddings, and search systems that ship to production.
+
+- 👯 **Collaboration Interests:**  
+  Backend-heavy products built with **Python, TypeScript, Django, NestJS, FastAPI**, especially systems with real users, real traffic, and real trade-offs.
+
+- 💬 **Ask Me About:**  
+  Database internals, software networking, backend architecture, automation, and designing systems that stay boring and dependable at scale.
+
+- ⚽ **Fun Fact:**  
+  Big football fan who enjoys breaking down matches the same way I break down systems.
+
+- 💭 **Long-Term Interests:**  
+  Applying data and engineering to football in Nigeria, whether through analytics, infrastructure, or media.
+
+- 😄 **A Bit About Me:**  
+  Serious about systems, curious by default, and occasionally mischievous.
+
+- 📫 **Let’s Connect:**  
+  Find me on [Twitter](https://twitter.com/TayCode) or [LinkedIn](https://www.linkedin.com/in/abdulmateen-tairu). Always happy to talk systems, product, or football.
